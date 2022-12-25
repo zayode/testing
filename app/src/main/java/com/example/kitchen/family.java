@@ -6,7 +6,7 @@ public class family {
     String email;
     String id;
     String faver;
-    int gender12;
+    int gender123;
 
     public String getName() {
         return name;
