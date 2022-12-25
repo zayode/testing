@@ -6,10 +6,9 @@ public class student {
     String email;
     String id;
     String faver;
-    int gpa;
-    public String getName() {
-        return name;
-    }
+    int my_gpa;
+
+
 
     public void setName(String name) {
         this.name = name;
